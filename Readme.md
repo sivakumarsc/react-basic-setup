@@ -26,4 +26,6 @@ Steps to follow:
 
 Now the application will start running on the port http://localhost:8080/
 
-You could see the message 'Welcome to the world of React !!' in browser
+You could see the message <b>'Welcome to the world of React !!'</b> in browser
+
+![Screenshot](screenshot.png)
